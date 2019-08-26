@@ -1,6 +1,7 @@
 # KiCad Footprint Libraries
 
-This repository contains the official KiCad footprint libraries.
+This repository contains a fork of the official KiCad footprint libraries.  This adds:
+ * BelaMini footprint (http://www.belaio.com)
 
 **The libraries in this repository are intended to be used with KiCad version 5 or with a nightly that supports rounded rectangle and polygon pads.**
 
